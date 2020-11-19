@@ -14,11 +14,11 @@ async def start(c, m):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('Source 😒', url='https://github.com/odysseusmax/animated-lamp'),
-                    InlineKeyboardButton('Project Channel', url='https://t.me/odbots')
+                    InlineKeyboardButton('Source 😒', url='https://github.com/cinemafactory2/animated-lamp'),
+                    InlineKeyboardButton('Project Channel', url='https://t.me/CFCHATproject')
                 ],
                 [
-                    InlineKeyboardButton('My Father', url='https://t.me/odysseusmax')
+                    InlineKeyboardButton('My Father', url='https://t.me/darkangewl')
                 ]
             ]
         )
